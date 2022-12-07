@@ -10,3 +10,8 @@ def echo_teste():
  print (PROJECT_ID)
  payload = PROJECT_ID
  return payload
+
+
+
+senha = echo_teste()
+print(format(senha))
