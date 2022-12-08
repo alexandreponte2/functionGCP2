@@ -5,7 +5,7 @@ import re
 from google.cloud.sql.connector import Connector
 import sqlalchemy
 from google.cloud import secretmanager
-from random import choice
+# from random import choice
 import string
 from os import getenv
 
