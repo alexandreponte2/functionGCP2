@@ -1,10 +1,10 @@
 from requests import get
-import base64
-import json
-import re
-from google.cloud.sql.connector import Connector
-import sqlalchemy
-from google.cloud import secretmanager
+# import base64
+# import json
+# import re
+# from google.cloud.sql.connector import Connector
+# import sqlalchemy
+# from google.cloud import secretmanager
 # from random import choice
 import string
 from os import getenv
